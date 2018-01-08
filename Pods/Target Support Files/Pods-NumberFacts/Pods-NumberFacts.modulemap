@@ -1,0 +1,6 @@
+framework module Pods_NumberFacts {
+  umbrella header "Pods-NumberFacts-umbrella.h"
+
+  export *
+  module * { export * }
+}
